@@ -1,7 +1,7 @@
 # Visit live Site at 
 https://niketailwindandreact.netlify.app/
 
-# Tailwind + React
+# Using Tailwind CSS + React
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
