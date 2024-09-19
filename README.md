@@ -3,7 +3,7 @@ https://niketailwindandreact.netlify.app/
 
 # Tailwind CSS + React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern landing page designed for an e-commerce business. It features a sleek layout with sections showcasing services, benefits, and client testimonials. The design emphasizes clarity and ease of navigation, making it user-friendly while effectively highlighting the company’s offerings. The minimalistic approach, combined with engaging visuals, creates a professional and appealing online presence.
 
 Currently, two official plugins are available:
 
